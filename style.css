@@ -16,6 +16,7 @@ button {
 .header {
     height: 400px;
     background: #1F2937;   
+    padding: 18px;
 }
 
 .hero_main_text {
